@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Code2Create \'18</string>
+    <string name="acm_vit">ACM VIT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="transition_zoom_out">transitionZoomOut</string>
+    <string name="drawer_open">Open</string>
+    <string name="dinner">D\nI\nN\nN\nE\nR</string>
+    <string name="drawer_close">Close</string>
+    <string name="about_us_event_description">Dummy Content.</string>
+    <string name="quiz_intro_heading">About This Quiz</string>
+    <string name="quiz_done_messgae">All Done!</string>
+    <string name="coupons_guest_message">Food Coupons Are For Participants Only!</string>
+    <string name="quiz_intro_body">This quiz will be live during the hackathon to determine the pitching
+        order of the different teams. The questions will be in MCQ format with four options each. For each question, drag
+        the question card to one of the 4 screen corners to make your choice.\n\nChoice 1: Top Left Corner
+        \nChoice 2: Top Right Corner\nChoice 3: Bottom Left Corner\nChoice 4: Bottom Right Corner</string>
+    <string name="about_acm">Right from its inception in 2009, the ACM VIT Student Chapter has been organising
+        and conducting successful technical and professional development events. It hosted Compute 2013, the
+        6th ACM India Computing Convention from 22nd to 24th August, 2013, as well as the first All India ACM
+        Chapters Meet on 24th August, 2013. It has credentials in web/mobile applications development and
+        machine learning. The websites "All About VIT" and "VIT Cab Share" are some of the treasured creations
+        of its core members. Technology is its cause and education is its objective.</string>
+    <string name="sample_question">The first mechanical computer designed by Charles Babbage was called?</string>
+    <string-array name="sample_question_options">
+        <item>Abacus</item>
+        <item>Analytical Engine</item>
+        <item>ENIAC</item>
+        <item>IAS Machine</item>
+    </string-array>
+    <string name="about_us_header">Code To Create \'18</string>
+    <string name="vertical_timeline">Timeline</string>
+    <string name="scan_message">Not yet scanned</string>
+    <string name="code2create_18">Code2Create \'18</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_to_unlock">Scan to Unlock!</string>
+</resources>
